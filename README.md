@@ -1,7 +1,7 @@
 # MicroscopePlugins
 
 ###Auto_Stitcher.java
-This program is designed to stitch individual microscope images, as they are added to a folder.  This is useful since creating a large image stitch is a slow process in Fiji, and often the microscope images are generated over 8 hours during the night.
+This program is designed to stitch individual microscope images, as they are added to a folder.  This is useful since creating a large image stitch is a slow process in Fiji, and often the microscope images are generated over 8+ hours during the night.
 
 ###Auto_Stacker_Max.java
 Similarly to the stitcher, the stacker takes a series of microscope images which are being slowly added to a folder overnight, and creates an Image Stack from them.
